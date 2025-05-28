@@ -97,7 +97,7 @@ body{
     color: rgb(84, 165, 84);
     height: 200px;
     width: 200px;
-    background-image: url(/assets/resume.jpg);
+    background-image: url(assets/resume.jpg);
     background-size:cover;
     border-radius: 50%;
     border: solid rgb(26, 100, 26);
@@ -561,7 +561,7 @@ body{
      color: rgb(84, 165, 84);
      height: 100%;
      width: 100%;
-     background-image: url(/assets/resume.jpg);
+     background-image: url(assets/resume.jpg);
      background-size: cover;
      border-radius: 50%;
      border: solid rgb(26, 100, 26);
@@ -753,12 +753,12 @@ body{
     background-position: center;
 }
 
-#skillsBtnImg{ width: 100px; background-image: url(/assets/skills.svg)}
-#cImg{  background-image: url(/assets/cpp.svg)}
-#cPlusImg{  background-image: url(/assets/cpp.svg)} 
-#pyImg{  background-image: url(/assets/python.svg)} 
-#javaImg{  background-image: url(/assets/java.svg)}
-#frontEndImg{  background-image: url(/assets/frontend.svg)}
+#skillsBtnImg{ width: 100px; background-image: url(assets/skills.svg)}
+#cImg{  background-image: url(assets/cpp.svg)}
+#cPlusImg{  background-image: url(assets/cpp.svg)} 
+#pyImg{  background-image: url(assets/python.svg)} 
+#javaImg{  background-image: url(assets/java.svg)}
+#frontEndImg{  background-image: url(assets/frontend.svg)}
 
 
 .skillsTtl{
@@ -805,8 +805,8 @@ body{
     justify-content: center;
     align-items: center;
 }
-#basicsImg{  background-image: url(/assets/frontend.svg)}
-#dsaImg{  background-image: url(/assets/frontend.svg)}
+#basicsImg{  background-image: url(assets/frontend.svg)}
+#dsaImg{  background-image: url(assets/frontend.svg)}
 #projects{
     position: relative;
     height: 100%;
